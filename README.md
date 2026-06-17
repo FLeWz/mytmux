@@ -14,6 +14,8 @@ Super key changed to `Ctrl+a`.
 
 `SUPER + Ctrl+r` restores
 
+`SUPER + s` list sessions
+
 `SUPER + c` new tab
 
 `SUPER + x` closes tab
